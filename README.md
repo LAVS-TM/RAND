@@ -9,9 +9,10 @@ RAND is a repository for a sport **dataset analysis** made with the language **R
 
 ## Dataset
 
-The OCR contains a CLI tool which is used to demonstrate the **segmentation** part of the project.
+The dataset is here in `/data/decathlon.csv`. The dataset is made up of several quite different pieces of data. These represent the scores obtained by athletes in the **decathlon** event at the **Olympic Games** and at the **Decastar**, we have the scores of the 10 events as well as their ranking and their points.
 
-<img src="https://github.com/Bictole/OCR/blob/master/Test_img/readme_images/segmented.png" alt="Segmented image">
+<img src="https://github.com/Bictole/OCR/blob/master/Test_img/readme_images/interface.png" alt="Interface">
+
 
 ### Usage
 
