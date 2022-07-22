@@ -39,7 +39,6 @@ Here, the axes must be interpreted **independently**.
 
 Several elements can be analysed:
 
-**Positively** correlated variables are grouped together.
-**Negatively** correlated variables are positioned on opposite sides of the origin of the graph (opposing quadrants).
-The distance between the variables and the origin measures the quality of representation of the variables. Variables that are far from the origin are well represented by **PCA**.
-For example, the throwing events, namely `Shot Put`, `Discus` and `Javelin`, are strongly correlated because they point in the same direction. However, `Javelin` is less well represented than `Weights` and `Discs` in the first two principal components.
+* **Positively** correlated variables are grouped together.
+* **Negatively** correlated variables are positioned on opposite sides of the origin of the graph (opposing quadrants).
+* The distance between the variables and the origin measures the **quality of representation** of the variables. Variables that are far from the origin are well represented by **PCA**. For example, the throwing events, namely `Shot Put`, `Discus` and `Javelin`, are strongly correlated because they point in the same direction. However, `Javelin` is less well represented than `Weights` and `Discs` in the first two **principal components**.
