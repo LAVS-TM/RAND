@@ -4,19 +4,10 @@
 [profile]:https://github.com/LAVS-TM
 
 
-OCR is an Optical Character Recognition made in C. The goal was to perform a binarization, a segmentation and send the matrices in a neural network to recognize the characters in an image.
-
-We have :
-
-* **Black_White module** that is supposed to binarize the images into a black and white only image.
-* **Interface module** which contain the interface program, made with SDL 2.0
-* **Neural_Network module**, the machine learning part of the OCR.
-* **Reconstruction module**, this part comes after the segmentation and the neural network, where our code needs to reconstruct the initial text from the image into a buffer.
-* **Segmentation module** is the part of the program where the input image is segmented into different paragraphs, lines, words and finally letters and that send the pixels matrices into the neural network.
-* **Tools module**, contains several uselful tools, especially for the SDL library manipulation.
+RAND is a repository for a sport **dataset analysis** made with the language **R**. The analysis is done in `Projet_final_Lemonnier_Alexandre_Simonin_Victor.ipynb` with a dataset description, some **statistical analysis**, **visualisation**, a **PCA** (Principal Component Analysis ) and finally a **logistic regression**.
 
 
-## How It Works
+## Dataset
 
 The OCR contains a CLI tool which is used to demonstrate the **segmentation** part of the project.
 
