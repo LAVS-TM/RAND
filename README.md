@@ -16,11 +16,15 @@ The dataset is here in `/data/decathlon.csv`. The dataset is made up of several 
 
 ## Analysis
 
+### PCA
+
 We perform a **PCA** (Principal Component Analysis) in the notebook.
 
 This allows us to analyze and visualize our Decathlon dataset, which contains individuals described by several quantitative variables.
 
 **PCA** is a method that allows us to explore data with multiple variables. Each variable could be considered as a different **dimension**. This is useful because it could be very difficult to visualize our data in a **multidimensional** "hyper-space".
+
+### Correlation
 
 We also visualize our data with a **correlation graph** :
 
@@ -31,6 +35,7 @@ We made few analysis on it:
 - The results of the short race events, therefore `100m`, `400m` and `110m.H`, are strongly correlated with each other. Quite surprisingly, however, they are negatively correlated with the final ranking, unlike the `Length`, `Weight` and `Height` events.
 - The `Length` event and the `400m` event are quite strongly negatively correlated.
 
+### Representation
 
 Finally there is a representation on the **factorial axis** that allows us to notice the quality of representation of our variables.
 Here, the axes must be interpreted **independently**.
