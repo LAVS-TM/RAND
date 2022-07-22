@@ -11,7 +11,7 @@ RAND is a repository for a sport **dataset analysis** made with the language **R
 
 The dataset is here in `/data/decathlon.csv`. The dataset is made up of several quite different pieces of data. These represent the scores obtained by athletes in the **decathlon** event at the **Olympic Games** and at the **Decastar**, we have the scores of the 10 events as well as their ranking and their points.
 
-<img src="https://github.com/LAVS-TM/RAND/blob/master/readme_images/dataset.png" alt="Dataset">
+<img src="https://github.com/LAVS-TM/RAND/blob/main/readme_images/dataset.png" alt="Dataset">
 
 
 ## Analysis
@@ -24,7 +24,7 @@ This allows us to analyze and visualize our Decathlon dataset, which contains in
 
 We also visualize our data with a **correlation graph** :
 
-<img src="https://github.com/LAVS-TM/RAND/blob/master/readme_images/corr.png" alt="Correlation">
+<img src="https://github.com/LAVS-TM/RAND/blob/main/readme_images/corr.png" alt="Correlation">
 
 We made few analysis on it:
 
@@ -35,7 +35,7 @@ We made few analysis on it:
 Finally there is a representation on the **factorial axis** that allows us to notice the quality of representation of our variables.
 Here, the axes must be interpreted **independently**.
 
-<img src="https://github.com/LAVS-TM/RAND/blob/master/readme_images/factorial.png" alt="Factorial Representation">
+<img src="https://github.com/LAVS-TM/RAND/blob/main/readme_images/factorial.png" alt="Factorial Representation">
 
 Several elements can be analysed:
 
